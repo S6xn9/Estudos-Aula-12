@@ -7,11 +7,11 @@
 ## Assunto: Listas Mistas e de Definição (HTML)
 
 ### 1. Introdução: Aprofundando na Estrutura de Listas
-A aula anterior introduziu os tipos básicos de listas (<ul>, <ol>, <dl>). Esta aula aprofunda em como combinar esses tipos para criar estruturas mais complexas (listas mistas ou aninhadas) e revisita a lista de definição (<dl>), que é semanticamente muito poderosa para certos tipos de conteúdo.
+A aula anterior introduziu os tipos básicos de listas `<ul>`, `<ol>`, `<dl>`. Esta aula aprofunda em como combinar esses tipos para criar estruturas mais complexas (listas mistas ou aninhadas) e revisita a lista de definição `<dl>`, que é semanticamente muito poderosa para certos tipos de conteúdo.
 
 ### 2. Listas Mistas (Aninhadas)
 - **Conceito:** Listas aninhadas (ou mistas) ocorrem quando uma lista é inserida como um item de outra lista.  
-- **Regra Fundamental:** Uma lista aninhada (seja <ul> ou <ol>) **DEVE** sempre estar dentro de um `<li>` da lista pai.  
+- **Regra Fundamental:** Uma lista aninhada seja `<ul>` ou `<ol>` **DEVE** sempre estar dentro de um `<li>` da lista pai.  
 - **Combinando Tipos:** É comum e válido combinar listas ordenadas e não ordenadas.
 
 **Exemplo de Lista Mista:**
