@@ -1,5 +1,9 @@
 # Anotações de Estudo: Listas Mistas e de Definição em HTML
 
+📅 Criado em: **20 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
+✍️ Autor: **Marco**
+
 ## Assunto: Listas Mistas e de Definição (HTML)
 
 ### 1. Introdução: Aprofundando na Estrutura de Listas
